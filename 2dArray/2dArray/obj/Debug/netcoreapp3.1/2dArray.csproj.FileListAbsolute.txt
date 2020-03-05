@@ -1,0 +1,11 @@
+C:\Users\Micha\source\repos\2dArray\2dArray\bin\Debug\netcoreapp3.1\2dArray.exe
+C:\Users\Micha\source\repos\2dArray\2dArray\bin\Debug\netcoreapp3.1\2dArray.deps.json
+C:\Users\Micha\source\repos\2dArray\2dArray\bin\Debug\netcoreapp3.1\2dArray.runtimeconfig.json
+C:\Users\Micha\source\repos\2dArray\2dArray\bin\Debug\netcoreapp3.1\2dArray.runtimeconfig.dev.json
+C:\Users\Micha\source\repos\2dArray\2dArray\bin\Debug\netcoreapp3.1\2dArray.dll
+C:\Users\Micha\source\repos\2dArray\2dArray\bin\Debug\netcoreapp3.1\2dArray.pdb
+C:\Users\Micha\source\repos\2dArray\2dArray\obj\Debug\netcoreapp3.1\2dArray.csprojAssemblyReference.cache
+C:\Users\Micha\source\repos\2dArray\2dArray\obj\Debug\netcoreapp3.1\2dArray.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\2dArray\2dArray\obj\Debug\netcoreapp3.1\2dArray.AssemblyInfo.cs
+C:\Users\Micha\source\repos\2dArray\2dArray\obj\Debug\netcoreapp3.1\2dArray.dll
+C:\Users\Micha\source\repos\2dArray\2dArray\obj\Debug\netcoreapp3.1\2dArray.pdb
