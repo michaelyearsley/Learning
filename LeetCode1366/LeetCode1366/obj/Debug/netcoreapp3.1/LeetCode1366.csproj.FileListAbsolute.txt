@@ -1,0 +1,11 @@
+C:\Users\Micha\source\repos\LeetCode1366\LeetCode1366\bin\Debug\netcoreapp3.1\LeetCode1366.exe
+C:\Users\Micha\source\repos\LeetCode1366\LeetCode1366\bin\Debug\netcoreapp3.1\LeetCode1366.deps.json
+C:\Users\Micha\source\repos\LeetCode1366\LeetCode1366\bin\Debug\netcoreapp3.1\LeetCode1366.runtimeconfig.json
+C:\Users\Micha\source\repos\LeetCode1366\LeetCode1366\bin\Debug\netcoreapp3.1\LeetCode1366.runtimeconfig.dev.json
+C:\Users\Micha\source\repos\LeetCode1366\LeetCode1366\bin\Debug\netcoreapp3.1\LeetCode1366.dll
+C:\Users\Micha\source\repos\LeetCode1366\LeetCode1366\bin\Debug\netcoreapp3.1\LeetCode1366.pdb
+C:\Users\Micha\source\repos\LeetCode1366\LeetCode1366\obj\Debug\netcoreapp3.1\LeetCode1366.csprojAssemblyReference.cache
+C:\Users\Micha\source\repos\LeetCode1366\LeetCode1366\obj\Debug\netcoreapp3.1\LeetCode1366.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\LeetCode1366\LeetCode1366\obj\Debug\netcoreapp3.1\LeetCode1366.AssemblyInfo.cs
+C:\Users\Micha\source\repos\LeetCode1366\LeetCode1366\obj\Debug\netcoreapp3.1\LeetCode1366.dll
+C:\Users\Micha\source\repos\LeetCode1366\LeetCode1366\obj\Debug\netcoreapp3.1\LeetCode1366.pdb
