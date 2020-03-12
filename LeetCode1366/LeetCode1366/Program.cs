@@ -12,12 +12,16 @@ namespace LeetCode1366
         {
             Console.WriteLine();
             string[] arr;
-            Console.WriteLine(RankTeams(arr = new string[]{ "ABC", "ACB", "ABC", "ACB", "ACB" }));
+            Console.WriteLine(RankTeams(arr = new string[]{ "FVSHJIEMNGYPTQOURLWCZKAX","AITFQORCEHPVJMXGKSLNZWUY","OTERVXFZUMHNIYSCQAWGPKJL","VMSERIJYLZNWCPQTOKFUHAXG","VNHOZWKQCEFYPSGLAMXJIUTR","ANPHQIJMXCWOSKTYGULFVERZ","RFYUXJEWCKQOMGATHZVILNSP","SCPYUMQJTVEXKRNLIOWGHAFZ","VIKTSJCEYQGLOMPZWAHFXURN","SVJICLXKHQZTFWNPYRGMEUAO","JRCTHYKIGSXPOZLUQAVNEWFM","NGMSWJITREHFZVQCUKXYAPOL","WUXJOQKGNSYLHEZAFIPMRCVT","PKYQIOLXFCRGHZNAMJVUTWES","FERSGNMJVZXWAYLIKCPUQHTO","HPLRIUQMTSGYJVAXWNOCZEKF","JUVWPTEGCOFYSKXNRMHQALIZ","MWPIAZCNSLEYRTHFKQXUOVGJ","EZXLUNFVCMORSIWKTYHJAQPG","HRQNLTKJFIEGMCSXAZPYOVUW","LOHXVYGWRIJMCPSQENUAKTZF","XKUTWPRGHOAQFLVYMJSNEIZC","WTCRQMVKPHOSLGAXZUEFYNJI" }));
         }
         public static string RankTeams(string[] votes)
         {
-
-            List<ConsoleApp1> winner = new List<ConsoleApp1>();
+            if (votes.Length == 1)
+                foreach (var item in votes)
+                {
+                    return(item);
+                }
+            List<Leetcode1366> winner = new List<Leetcode1366>();
             StringBuilder arr = new StringBuilder();
             Dictionary<char, int> votecount = new Dictionary<char, int>();
             string vote = string.Empty;
@@ -26,7 +30,6 @@ namespace LeetCode1366
                 arr.Append(votes[i]);
             }
             string arr2 = Convert.ToString(arr);
-            Console.WriteLine(arr);
             int count = 1;
             int value = 0;
             foreach (var item in arr2)
@@ -45,33 +48,33 @@ namespace LeetCode1366
                 }
                 count++;
             }
+            
             foreach (var i in votecount)
             {
                 string word = Convert.ToString(i);
-                word = word.Replace("]", "");
-                int number = int.Parse(Convert.ToString(word[4]));
-                winner.Add(new ConsoleApp1() { Num = number, ABC = word[1] });
+                word = word.Replace("]", " ");
+                int number = int.Parse(Convert.ToString(word.Substring(4,2)));                  
+                winner.Add(new Leetcode1366() { Num = number, ABC = word[1] });
             }
-            winner.Sort(delegate (ConsoleApp1 x, ConsoleApp1 y)
+            
+            winner.Sort(delegate (Leetcode1366 x, Leetcode1366 y)
             {
-                if (x.Num == y.Num) return x.Num;
-                else if (x.Num == 0) return -1;
-                else if (y.Num == 0) return 1;
+                if(x.Num == y.Num) return x.ABC.CompareTo(y.ABC); 
                 else return x.Num.CompareTo(y.Num);
             });
             String results = string.Empty;
+            Console.WriteLine(votes.Length);
             foreach (var item in winner)
             {
-                Console.WriteLine($"{item.Num} + {item.ABC}");
+                Console.WriteLine($"{item.Num}, {item.ABC}");
                 results = results + item.ABC;
             }
             return(results);
         }
-        class ConsoleApp1
+        class Leetcode1366
         {
             public int Num;
             public char ABC;
         }
-    }
-    
+    } 
 }
