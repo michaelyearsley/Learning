@@ -1,0 +1,6 @@
+C:\Users\Micha\source\repos\EssentialTraining\EssentialtrainingApp\bin\Debug\EssentialtrainingApp.exe.config
+C:\Users\Micha\source\repos\EssentialTraining\EssentialtrainingApp\bin\Debug\EssentialtrainingApp.exe
+C:\Users\Micha\source\repos\EssentialTraining\EssentialtrainingApp\bin\Debug\EssentialtrainingApp.pdb
+C:\Users\Micha\source\repos\EssentialTraining\EssentialtrainingApp\obj\Debug\EssentialtrainingApp.csprojAssemblyReference.cache
+C:\Users\Micha\source\repos\EssentialTraining\EssentialtrainingApp\obj\Debug\EssentialtrainingApp.exe
+C:\Users\Micha\source\repos\EssentialTraining\EssentialtrainingApp\obj\Debug\EssentialtrainingApp.pdb
