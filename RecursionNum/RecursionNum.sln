@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionNum", "RecursionNum\RecursionNum.csproj", "{442D304D-A343-4F5F-A630-17BD8CC94895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442D304D-A343-4F5F-A630-17BD8CC94895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442D304D-A343-4F5F-A630-17BD8CC94895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442D304D-A343-4F5F-A630-17BD8CC94895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442D304D-A343-4F5F-A630-17BD8CC94895}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2A17BBB-6A75-4B5C-B385-283044545D1B}
+	EndGlobalSection
+EndGlobal
