@@ -1,0 +1,13 @@
+C:\Users\Micha\source\repos\Interview1\Interview1\bin\Debug\netcoreapp3.1\Interview1.exe
+C:\Users\Micha\source\repos\Interview1\Interview1\bin\Debug\netcoreapp3.1\Interview1.deps.json
+C:\Users\Micha\source\repos\Interview1\Interview1\bin\Debug\netcoreapp3.1\Interview1.runtimeconfig.json
+C:\Users\Micha\source\repos\Interview1\Interview1\bin\Debug\netcoreapp3.1\Interview1.runtimeconfig.dev.json
+C:\Users\Micha\source\repos\Interview1\Interview1\bin\Debug\netcoreapp3.1\Interview1.dll
+C:\Users\Micha\source\repos\Interview1\Interview1\bin\Debug\netcoreapp3.1\Interview1.pdb
+C:\Users\Micha\source\repos\Interview1\Interview1\obj\Debug\netcoreapp3.1\Interview1.csprojAssemblyReference.cache
+C:\Users\Micha\source\repos\Interview1\Interview1\obj\Debug\netcoreapp3.1\Interview1.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Interview1\Interview1\obj\Debug\netcoreapp3.1\Interview1.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\Interview1\Interview1\obj\Debug\netcoreapp3.1\Interview1.AssemblyInfo.cs
+C:\Users\Micha\source\repos\Interview1\Interview1\obj\Debug\netcoreapp3.1\Interview1.dll
+C:\Users\Micha\source\repos\Interview1\Interview1\obj\Debug\netcoreapp3.1\Interview1.pdb
+C:\Users\Micha\source\repos\Interview1\Interview1\obj\Debug\netcoreapp3.1\Interview1.genruntimeconfig.cache
