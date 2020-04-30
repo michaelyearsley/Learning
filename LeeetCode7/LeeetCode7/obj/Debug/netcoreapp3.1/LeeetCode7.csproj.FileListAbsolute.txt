@@ -1,0 +1,13 @@
+C:\Users\Micha\source\repos\LeeetCode7\LeeetCode7\bin\Debug\netcoreapp3.1\LeeetCode7.exe
+C:\Users\Micha\source\repos\LeeetCode7\LeeetCode7\bin\Debug\netcoreapp3.1\LeeetCode7.deps.json
+C:\Users\Micha\source\repos\LeeetCode7\LeeetCode7\bin\Debug\netcoreapp3.1\LeeetCode7.runtimeconfig.json
+C:\Users\Micha\source\repos\LeeetCode7\LeeetCode7\bin\Debug\netcoreapp3.1\LeeetCode7.runtimeconfig.dev.json
+C:\Users\Micha\source\repos\LeeetCode7\LeeetCode7\bin\Debug\netcoreapp3.1\LeeetCode7.dll
+C:\Users\Micha\source\repos\LeeetCode7\LeeetCode7\bin\Debug\netcoreapp3.1\LeeetCode7.pdb
+C:\Users\Micha\source\repos\LeeetCode7\LeeetCode7\obj\Debug\netcoreapp3.1\LeeetCode7.csprojAssemblyReference.cache
+C:\Users\Micha\source\repos\LeeetCode7\LeeetCode7\obj\Debug\netcoreapp3.1\LeeetCode7.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\LeeetCode7\LeeetCode7\obj\Debug\netcoreapp3.1\LeeetCode7.AssemblyInfoInputs.cache
+C:\Users\Micha\source\repos\LeeetCode7\LeeetCode7\obj\Debug\netcoreapp3.1\LeeetCode7.AssemblyInfo.cs
+C:\Users\Micha\source\repos\LeeetCode7\LeeetCode7\obj\Debug\netcoreapp3.1\LeeetCode7.dll
+C:\Users\Micha\source\repos\LeeetCode7\LeeetCode7\obj\Debug\netcoreapp3.1\LeeetCode7.pdb
+C:\Users\Micha\source\repos\LeeetCode7\LeeetCode7\obj\Debug\netcoreapp3.1\LeeetCode7.genruntimeconfig.cache
